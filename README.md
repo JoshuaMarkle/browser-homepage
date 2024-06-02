@@ -2,4 +2,4 @@
 
 <p align="center">Can't get much more minimal than this! :sparkles:<p>
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
